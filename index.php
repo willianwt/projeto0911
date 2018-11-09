@@ -8,7 +8,6 @@
       <style>
           body{
               background-image: url("bg.jpg");
-              background-repeat: no-repeat;
               background-color: hsla(0,0%,100%,0.75);
               background-blend-mode: overlay;
               height: 100%;
@@ -55,7 +54,6 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="?page=lis-turma">Listar</a>
-              <a class="dropdown-item" href="?page=cad-turma">Cadastrar</a>
             </div>
           </li>
         </ul>
